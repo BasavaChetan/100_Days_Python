@@ -1,2 +1,2 @@
 # 100_Days_Python
-100 days of python. Includes Capstone project
+Welcome to the "100 Days of Python" repository! This comprehensive collection is designed to help you progress through a rigorous journey of Python programming, one day at a time. Inside, you will find daily coding exercises, practical questions, and capstone projects tailored to reinforce your Python skills systematically. Each folder corresponds to a day in the series, starting from basic concepts and gradually advancing to more complex topics and applications. Whether you're a beginner looking to get a solid foundation or an experienced programmer aiming to enhance your skills, this repository serves as a valuable resource for continuous learning and improvement in Python.
